@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+
 #@Author prince kumar
 #Date 23 dec 2020
 # Version V3.0.0
@@ -6,7 +6,7 @@
 #This is made only for educational purposes...
 # Satrt coding here
 # Define some color coding here
-r="\e[31;1m" # this is for red
+r="\e[31;1m" # this is forred
 g="\e[32;1m" # green
 y="\e[33;1m" # yellow
 b="\e[34;1m" # blue
